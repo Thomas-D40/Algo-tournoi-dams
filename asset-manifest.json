@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Algo-tournoi-dams/static/css/main.2a84aeb4.css",
-    "main.js": "/Algo-tournoi-dams/static/js/main.e9fca69f.js",
-    "static/js/787.b6e6ad1c.chunk.js": "/Algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js",
-    "index.html": "/Algo-tournoi-dams/index.html",
-    "main.2a84aeb4.css.map": "/Algo-tournoi-dams/static/css/main.2a84aeb4.css.map",
-    "main.e9fca69f.js.map": "/Algo-tournoi-dams/static/js/main.e9fca69f.js.map",
-    "787.b6e6ad1c.chunk.js.map": "/Algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js.map"
+    "main.css": "/algo-tournoi-dams/static/css/main.2a84aeb4.css",
+    "main.js": "/algo-tournoi-dams/static/js/main.3c2d2be6.js",
+    "static/js/787.b6e6ad1c.chunk.js": "/algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js",
+    "index.html": "/algo-tournoi-dams/index.html",
+    "main.2a84aeb4.css.map": "/algo-tournoi-dams/static/css/main.2a84aeb4.css.map",
+    "main.3c2d2be6.js.map": "/algo-tournoi-dams/static/js/main.3c2d2be6.js.map",
+    "787.b6e6ad1c.chunk.js.map": "/algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a84aeb4.css",
-    "static/js/main.e9fca69f.js"
+    "static/js/main.3c2d2be6.js"
   ]
 }
