@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Algo-tournoi-dams/static/css/main.2a84aeb4.css",
-    "main.js": "/Algo-tournoi-dams/static/js/main.3205c591.js",
+    "main.js": "/Algo-tournoi-dams/static/js/main.63fd71da.js",
     "static/js/787.b6e6ad1c.chunk.js": "/Algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js",
     "static/media/logo.svg": "/Algo-tournoi-dams/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Algo-tournoi-dams/index.html",
     "main.2a84aeb4.css.map": "/Algo-tournoi-dams/static/css/main.2a84aeb4.css.map",
-    "main.3205c591.js.map": "/Algo-tournoi-dams/static/js/main.3205c591.js.map",
+    "main.63fd71da.js.map": "/Algo-tournoi-dams/static/js/main.63fd71da.js.map",
     "787.b6e6ad1c.chunk.js.map": "/Algo-tournoi-dams/static/js/787.b6e6ad1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a84aeb4.css",
-    "static/js/main.3205c591.js"
+    "static/js/main.63fd71da.js"
   ]
 }
